@@ -1,0 +1,22 @@
+
+{
+  "Face Cascade" : "lbpcascade_frontalface_improved.xml",  
+
+  "Region Of Interest" : {          
+
+    "x1" : 270,
+    "y1" : 40,
+    "x2" : 470,
+    "y2" : 350
+
+  },
+
+  "Draw ROI" : {                     
+
+    "State" : "True",
+    "Color" : [255,0,200]
+  
+  },
+
+  "Face Area Threshold" : 250      
+}
